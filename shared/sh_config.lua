@@ -1,7 +1,7 @@
 Config = {}
 
 -- Nom du serveur --
-Config.ServerName = "MConnexion"
+Config.ServerName = "SConnexion"
 
 -- URL Bannière / non obligatoir --
 Config.ServerBannerURL = ""
