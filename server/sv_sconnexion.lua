@@ -1,6 +1,6 @@
 AddEventHandler('playerConnecting', function(name, skr, d)
   d.defer()
-  Wait(1000)
+  Wait(10000)
   
   d.presentCard({
     type = "AdaptiveCard",
